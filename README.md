@@ -2,7 +2,7 @@
 
 1 - clone this repo to a folder and install dependencies
 ```
-git clone 
+git clone https://github.com/gonza4/flea-market.git
 
 # if you have yarn
 yarn
